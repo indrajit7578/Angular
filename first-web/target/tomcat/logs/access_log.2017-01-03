@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [03/Jan/2017:02:47:26 +0530] "GET /spring-mvc/login HTTP/1.1" 500 4182 http-bio-8086-exec-1 1106
+0:0:0:0:0:0:0:1 - - [03/Jan/2017:02:47:26 +0530] "GET /favicon.ico HTTP/1.1" 500 1542 http-bio-8086-exec-2 18
+0:0:0:0:0:0:0:1 - - [03/Jan/2017:02:47:51 +0530] "GET /spring-mvc/admin/ HTTP/1.1" 500 4182 http-bio-8086-exec-3 470
+0:0:0:0:0:0:0:1 - - [03/Jan/2017:02:47:51 +0530] "GET /favicon.ico HTTP/1.1" 500 1542 http-bio-8086-exec-4 6
